@@ -15,7 +15,7 @@ Complex environment
 
 <img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed.png" width="500px">
 
-Using gradient descent method in the same situation
+Using gradient descent method in the same situation, robot fall into local optimum.
 
 <img src="https://github.com/Ranger76X/BAS/blob/main/Nav_failed_GDescent.png" width="500px">
 
