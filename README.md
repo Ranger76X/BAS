@@ -9,9 +9,9 @@ Examples of path planning
 
 Simple environment
 
-<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed_2.png" width="1000px">
+<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed_2.png" width="500px">
 
 Complex environment
 
-<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed.png" width="1000px">
+<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed.png" width="500px">
 
