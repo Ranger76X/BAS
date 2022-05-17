@@ -8,8 +8,10 @@ Using BAS instead of gradient descent method to plan path in artificial potentia
 Examples of path planning
 
 Simple environment
-<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed_2.png" width="100">
+
+<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed_2.png" width="100px">
 
 Complex environment
-<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed.png" width="100">
+
+<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed.png" width="100px">
 
