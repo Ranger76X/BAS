@@ -11,7 +11,8 @@ Simple environment
 
 <img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed_2.png" width="500px">
 
-Complex environment
+Complex environment            Using gradient descent method in the same situation
 
 <img src="https://github.com/Ranger76X/BAS/blob/main/Nav_succeed.png" width="500px">
+<img src="https://github.com/Ranger76X/BAS/blob/main/Nav_failed_GDescent.png" width="500px">
 
