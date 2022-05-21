@@ -25,3 +25,5 @@ Combining the gradient descent method and BAS to plan path.
 Examples of path planning
 
 Complex environment
+
+<img src="https://github.com/Ranger76X/BAS/blob/main/BAS_APF/example.png" width="500px">
