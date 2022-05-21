@@ -27,3 +27,5 @@ Examples of path planning
 Complex environment
 
 <img src="https://github.com/Ranger76X/BAS/blob/main/BAS_APF/example.png" width="500px">
+
+Using BAS to jump out of the local optimum.
