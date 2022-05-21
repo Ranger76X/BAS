@@ -19,3 +19,9 @@ Using gradient descent method in the same situation, robot fall into local optim
 
 <img src="https://github.com/Ranger76X/BAS/blob/main/Nav_failed_GDescent.png" width="500px">
 
+# BAS_APF
+Combining the gradient descent method and BAS to plan path.
+
+Examples of path planning
+
+Complex environment
